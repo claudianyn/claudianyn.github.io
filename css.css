@@ -1,11 +1,11 @@
 body{
 	
-font-family: "Helvetica", "Arial", fantasy;
+font-family: "Lucidia Console", "Arial", fantasy;
 	
-color: #AAFF00;
-	background-color: #ADD3F9;
+color: #929292;
+	background-color: #febabb;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #febabb;
 	text-align: center;
 
 }
@@ -18,14 +18,14 @@ font-size: 1.3em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #6ddb76;
 
 }
 
 
 td, th {
     
-border: 1px solid #dddddd;
+border: 1px solid #ffffff;
     
 text-align: left;
     
@@ -37,6 +37,6 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #ffffff;
 
 }
